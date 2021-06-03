@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kneeling in the act of eating and drinking at the Lords table is a sinne. Proved by 8 arguments. / By H. Iacob.</title>
+            <author>Jacob, Henry, 1608-1652.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87632</idno><idno type="EEBO-CITATION">99867313</idno>
+  <idno type="VID">119620</idno>
+  <idno type="EEBO-PROQUEST">2248502625</idno>
+  
+            <idno type="STC">Wing J96</idno>
+            <idno type="STC">Thomason E1102_5</idno>
+            <idno type="STC">ESTC R208356</idno>
+            <idno type="PROQUEST">99867313</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867313e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1102[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kneeling in the act of eating and drinking at the Lords table is a sinne. Proved by 8 arguments. / By H. Iacob.</title>
+                  <author>Jacob, Henry, 1608-1652.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119620:1"/>
+            <p>KNEELING IN THE ACT OF eating and drinking at THE <hi>LORDS</hi> TABLE <hi>is a sinne.</hi>
+            </p>
+            <p>Proued by 8 Arguments.</p>
+            <p>By H. <hi>Iacob.</hi>
+            </p>
+            <p>LONDON Printed in the yeare. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:119620:2"/>
+            <head>KNEELING IN THE ACT of eateing and drinking at the <hi>Lords Table is a sinne.</hi> Proued by 8 Arguments.</head>
+            <p>ALL <hi>performeing of Religious worship proper to God, before a Creature if with a speciall respect of the said Creature (though Relatively and principally unto God) is a sinne.</hi>
+            </p>
+            <p>Also though this Creature be a de<g ref="char:EOLhyphen"/>vine ordinance a gracious and sancte<g ref="char:EOLhyphen"/>fied meanes of bringing salvation unto us, and of certefiing us of Gods good will and fauour toward us, yet to per<g ref="char:EOLhyphen"/>forme (without Gods owne expresse appointment) such worship before, it is a great sinne. for so did <hi>Cornelius</hi> fall downe before the Apostle <hi>Peter</hi> Act. 10.20 25.26. and <hi>Iohn</hi> the Apostle before the holy Angell Rev. 22.8.9. yet this their Religious bowing down before these sacred Instrūents of God (because it was a worship proper to
+<pb n="2" facs="tcp:119620:3"/> God &amp; due only to him) was a sinne a<g ref="char:EOLhyphen"/>gainst God, as in these texts it appea<g ref="char:EOLhyphen"/>reth. Yea it was a breach of the first commandement. No pretence of men can salve it; viz. though it should be said, that they did it only before them, not to them, but unto God that sent them, or not terminatively unto them, but with relation to God as the princi<g ref="char:EOLhyphen"/>pall obiect, whose sacred instruments these were. And doubtlesse they did it out of a vehement affection of princi<g ref="char:EOLhyphen"/>pall reverence and honor to God, who appointed &amp; sent those his said instru<g ref="char:EOLhyphen"/>ments. Yea, the fore-named texts doe shew that this Bowing downe was in<g ref="char:EOLhyphen"/>deed done also to them, &amp; that it was to be so estemed, viz. as done to them, though but relatively: againe the said texts do shew that religiously they might not bow downe but to God on<g ref="char:EOLhyphen"/>ly; and that this bowing or falling downe in the exercise of religion, is a worship proper to God onely, &amp; not
+<pb n="3" facs="tcp:119620:3"/> Communicable by any meanes to any creature, no not relatively. Yea also, that we may not doe bodily worship before a creature with respect to it, vnlesse God expresly appoint us so to doe.</p>
+            <p>
+               <hi>Kneeling in the act of eateing and drink<g ref="char:EOLhyphen"/>ing at the Lords Table is the performing of a religious worship proper to God be<g ref="char:EOLhyphen"/>fore a creature</hi> (a sanctefied creature) <hi>with a speciall respect of it, yet relatively and principally vnto God himselfe,</hi> whose divine and sacred ordinances these mysteries are, and whose true instru<g ref="char:EOLhyphen"/>ments of his grace they are unto vs. This who can deny? For this act of Kneeling, though we say we doe it not to these mysticall signes (for most do grant such Kneeling to be due only to God) yet no man can say but it is done before these, and with a respect of these sanctified &amp; devine ordinances, Gods instrumēts of working his saving grace in us. Nay, Common sence and open
+<pb n="4" facs="tcp:119620:4"/> reason will say that it is relatively done even to these holy mysteries no lesse then the like was to <hi>Peter</hi> and to the <hi>Angel</hi> aforesaid, who (as I said) in<g ref="char:EOLhyphen"/>deed were worshiped, as the text there sheweth. Common sence will say also, that by this reasonable reverence (as some grant it to be) done to them, we do honor and worship God whose they are) the more. Euident reason (I say) proclaimeth that this is, or ought to be the mind &amp; intent of all those who do vse this kneeling. Vnlesse (which is worse) men in Gods solemne worship will do against reason and common sense. But to omit this: that sufficeth which cannot be striven against, that this kneeling is a performing of a reli<g ref="char:EOLhyphen"/>gious worship before a sanctified crea<g ref="char:EOLhyphen"/>ture with a speciall respect of it though in a principall relation unto God. also this is without any appointment of God for us so to do.</p>
+            <p>
+               <hi>Therefore this kneeling is a great sinne:</hi>
+               <pb n="5" facs="tcp:119620:4"/> even against those fornamed Scrip<g ref="char:EOLhyphen"/>tures. Act. 10. Rev. 22. yea. in the first commandement in the <hi>Decaloque</hi> to the which the said Scriptures are to be re<g ref="char:EOLhyphen"/>ferred as to their generall head.</p>
+            <p>Breifely, the sinne is all one with that which the <hi>Papists</hi> do in kneeling before there sacred Images as they esteeme them to be. Onely in this <hi>Protestants</hi> doe not so ill, that they kneele indeed before there owne inventions: <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> do so before the holy mysteris and ordinances of God. So that where the <hi>Papists</hi> commit two sinnes, we commit but one. And this is all the difference betweene us, as touching this act.</p>
+            <p>Otherwise this first Argument may also be framed thus.</p>
+            <p>There was the same right and reason, or more, to fall downe and kneele be<g ref="char:EOLhyphen"/>fore <hi>Peter</hi> and the <hi>Angel</hi> relatively, as there is to fall downe before the sancti<g ref="char:EOLhyphen"/>fyed bread and wine in receaving them.
+<pb n="6" facs="tcp:119620:5"/> For <hi>Peter</hi> and the <hi>Angel</hi> were the holy and devine seruants of God, his Instru<g ref="char:EOLhyphen"/>mēts, &amp; ordinances for the good of our soules, as the sanctefyed bread &amp; wine are in there kind also. And these latter are no more to have outward worship done unto them, or before them, then the other. There is no sound difference that can be made betwene these things; except the bread and wine have lesse reason for such reverence, then the Apostle and the <hi>Angel.</hi> Nay, doubtlesse they have lesse reason by much. So that, <hi>If the former be sinne the later is also.</hi>
+            </p>
+            <p>
+               <hi>But the former was a sinne.</hi>
+            </p>
+            <p>
+               <hi>Therefore the later is also.</hi> Even to fall downe and kneele before the sanctified bread and wine in receaving the same is a sinne. yea (it seemeth) a much grea<g ref="char:EOLhyphen"/>ter sinne, then that falling downe be<g ref="char:EOLhyphen"/>fore <hi>Peter</hi> and the <hi>Angel</hi>
+            </p>
+            <p>
+               <hi>All appearance of evill must be ab<g ref="char:EOLhyphen"/>stained from.</hi> 1. Thess: 5, 22. And hat not onely if a thing seeme evill to
+<pb n="7" facs="tcp:119620:5"/> a mans owne iudgment, but also if it seeme to other men, so that there be a likely shew of reason in it.</p>
+            <p>
+               <hi>This kneeling is</hi> (at least) <hi>an appearance of evill,</hi> or, it hath (at least) an appea<g ref="char:EOLhyphen"/>rance of evill in it. Namely, of wor<g ref="char:EOLhyphen"/>shiping the sanctified bread, to those Romishly affected. (which are a multi<g ref="char:EOLhyphen"/>tude among vs.) Here is a shew &amp; ap<g ref="char:EOLhyphen"/>pearance of worshiping this Sacra<g ref="char:EOLhyphen"/>ment as God: vnto others heere is (at least) a shew of worshiping it rela<g ref="char:EOLhyphen"/>tively as <hi>Iohn</hi> intended to worship the <hi>Angel:</hi> and <hi>Cornelius Peter,</hi> which also was a manifest sinne. Now this knee<g ref="char:EOLhyphen"/>ling is altogether like. In it is a plaine appearance of some worship to the ho<g ref="char:EOLhyphen"/>ly signes. Neither can the words of men labouring to excuse it by their au<g ref="char:EOLhyphen"/>thority, make it to be otherwise. For the thing being so in the nature and pro<g ref="char:EOLunhyphen"/>portion of the fact, mens words thogh in authority cannot alter it, not mens will but common reason, and the like<g ref="char:EOLhyphen"/>ly
+<pb n="8" facs="tcp:119620:6"/> appearance thereof carrieth the mat<g ref="char:EOLhyphen"/>ter. Seeing then in the shew of likely reason this kneeling seemeth to bee a worship done to the creature (at least Relatively,) Therefore so we ought to iudge of it. whence it plainely follow<g ref="char:EOLhyphen"/>eth, and it cannot be denyed: <hi>Therfore this</hi> kneeling <hi>must be abstained from,</hi> and not to abstaine from it is a sinne, even a trangression of they afore alleadged Scripture: 1 Thess. 5:22.</p>
+            <p n="3">3. <hi>Euery playne and manifest misapply<g ref="char:EOLhyphen"/>ing in the worship of God, of a gesture otherwise lawfull to apart of the said wor<g ref="char:EOLhyphen"/>ship of God not fiting for it, is a sinne a<g ref="char:EOLhyphen"/>gainst the third Commandement.</hi>
+            </p>
+            <p>
+               <hi>This Kneeling is a plaine and manifest misapplying in the worship of God, of a gesture otherwise lawfull to a part of the sayd worship of God not fiting for it.</hi>
+            </p>
+            <p>Because the act of eating and drink<g ref="char:EOLhyphen"/>ing at the Lords Table is properly a preaching of the Lords death: it is no act of Thanksgiving, nor of prayer; in
+<pb n="9" facs="tcp:119620:6"/> which only it is decent (though also not necessary) to kneele. But kneeling in the act of preaching if a playne and manifest misapplying in the worship of God of a gesture otherwise lawfull to a part of Gods worship not fiting for it. Sitting or standing are the only fit gestures for the act of Preaching in plaine and manifest reason, as also it is in respect of the perpetuall vse and practise of all preachers and preaching recorded in Gods word, and of all o<g ref="char:EOLhyphen"/>thers every where since.</p>
+            <p>
+               <hi>Therfore this Kneeling is a sinne a<g ref="char:EOLunhyphen"/>gainst the third Commandement</hi>
+            </p>
+            <p n="4">4. <hi>Where sitting by the true intent of the second Commandement is necessarie, there kneeling is a sinne.</hi>
+            </p>
+            <p>
+               <hi>By the true intent of the second com<g ref="char:EOLhyphen"/>mandement siting is necessary in the act of eating and drinking at the Lords Table.</hi>
+            </p>
+            <p>For by Christs owne ordinance all this whole action now performed, that is, eating and drinking and sitting
+<pb n="10" facs="tcp:119620:7"/> togeather at the Lords table, represen<g ref="char:EOLhyphen"/>teth and fore signefieth our fellowship with Christ heereafter in his heavenly kingdom. As Christ himselfe declar<g ref="char:EOLhyphen"/>eth at the same very time whē he with his disciples did eate &amp; drinke &amp; sat togeather at his last supper; Namely, where with an expresse reference to the same he spake thereof, saying, Luk. 22 30. That you may eate and drinke with me in my kingdome and sit one seates an judge the twelue tribes of Israell. This is their consotiation in glory heereafter signified and repre<g ref="char:EOLhyphen"/>sented heere by that present sociable action and gesture which then and there they acted togeather. Whence it followeth that this sitting is neces<g ref="char:EOLhyphen"/>sary: because Christ would have this should teach us and represent unto us that gracious and most comfortable doctrine. A most excellent point of faith and of our ioyfull hope.</p>
+            <p>
+               <hi>Therefore Kneeling in the act of eate<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:119620:7"/> and drinking at the Lords Table is a sinne,</hi> because it both taketh away so necessary a signifying Ceremony, as this sitting is, and also obscureth and hindereth that heavenly doctrine taught vs by the same, contrary to the intent of the second Commandement in the <hi>Decalogue.</hi>
+            </p>
+            <p>If any say, then to receave the Com<g ref="char:EOLhyphen"/>munion standing is a sinne also:</p>
+            <p>I answer; For asmuch as sometime standing is in use when men in friendly societie eate and drink together, namly when meanes or opportunity of sitting wanteth, therefore standing is not sim<g ref="char:EOLhyphen"/>ply evill, as kneeling in this action is. Seeing kneeling is never any manner, nor order, nor custome of men eateing and drinking togeather Indeed stand<g ref="char:EOLhyphen"/>ing at the time of receaving the Com<g ref="char:EOLhyphen"/>munion is nothing so fit a gesture, no<g ref="char:EOLhyphen"/>thing so convenient as sitting Nay, it seemeth to be evill then, when fit meanes and opertunity of sitting may
+<pb n="12" facs="tcp:119620:8"/> be had.</p>
+            <p n="5">5. <hi>Whatsoever is a meere voluntary in<g ref="char:EOLhyphen"/>stitution of man in &amp; pertaining to Gods worship; is a sinne.</hi> This cannot be doub<g ref="char:EOLhyphen"/>ted of by any sound Christian. Because if such humaine institutions in Gods worship may by any meanes be lawful, then Gods word the holy Scriptures is not perfect, it is not sufficient for our whole instruction &amp; direction in Gods service. Neither is Christ an absolute Prophet and Teacher vnto us in this matter. Mens voluntarie Ordinances and Traditions may lawfully be admit<g ref="char:EOLhyphen"/>ted in the Church, and in Devine wor<g ref="char:EOLhyphen"/>ship. Which both the generall and true &amp; right sense of the second Comman<g ref="char:EOLhyphen"/>dement in the Decalogue forbideth, whereby a figure of speech God puteth a part for the whole of that kind, saying, Exod 20.4. Thou shalt not make to thy selfe a graven image &amp;c. And also the Scripture else where more expresly condemneth, saying, Matt. 15.
+<pb n="13" facs="tcp:119620:8"/> In vaine do you worship me teaching for doctrines mens precepts. <hi>Every plant that my heauenly Father hath not planted shall be rooted out.</hi> Also in these things plainly, Psal. 19. <hi>The Law of the Lord is perfect &amp;c.</hi> where we deny not, but in Ciuill matters though they be in Gods worship taken vp, and used, and altered by men, yet there is no sin. For this may well be so; neither doth Gods word any where forbid it. As to weare in Gods worship white sto<g ref="char:EOLhyphen"/>kens or blake garters, a cloke or a jer<g ref="char:EOLhyphen"/>kin, a falling band, or a ruffe band, These ciuill matters in Gods worship do not pertaine to it. Yea moreover also we grant that some things in and pertaining to Gods worship (as con<g ref="char:EOLhyphen"/>venient Circumstances of places, times, and persons and such like) may be by mans reason and discretion appointed, and changed againe. But then these are not meere voluntary institutions of man. For nature it selfe sheweth
+<pb n="14" facs="tcp:119620:9"/> a necessity that these things should be, and common reason willeth that they should be thus, and thus, and also that they should change and alter againe at some times, and one some occasions, But (as I saide) we speake of mens vo<g ref="char:EOLhyphen"/>luntary institutions in Gods worship which directly pertaine and belong to the said worship, &amp; yet are not of any necessity therein, neither by Nature, nor by certaine and constant reason, nor by the holy Scripture.</p>
+            <p>Now so doth this kneeling. I say, <hi>to kneele in the act of eating and drinking at the Lords Table is a meere voluntary institution of man in the worship of God, and it directly and properly pertaineth to the said worship.</hi> Yea further, it doth not onely pertaine to Gods worship, but it selfe is here a very worship done to God specially. And yet it is a right Humaine Ordinance, and in the insti<g ref="char:EOLhyphen"/>tution thereof meerely voluntary. For neither is there any need of it in Na<g ref="char:EOLhyphen"/>ture,
+<pb n="15" facs="tcp:119620:9"/> nor in true reason, nor in Gods word. Wherefore the conclusi<g ref="char:EOLhyphen"/>on followeth, <hi>To Kneele in the act of eating and drinking at the Lords table is a sinne.</hi>
+            </p>
+            <p>Note also that by this Argument all other Romish voluntary Ordinan<g ref="char:EOLhyphen"/>ces of men in Gods worship (as Holy water, Candles, Images, Salt, Creame, Oyle &amp;c.) are condemned. Which if this Argument be not firme, will stand and be good enough. Which God forbid,</p>
+            <p>If any say, this kneeling is at the most a misapplying of a gesture in it selfe lawfull in Gods worship. And so it is against but the third Commande<g ref="char:EOLhyphen"/>ment: it cannot be against the second. For in it selfe it is no Ceremonie in<g ref="char:EOLhyphen"/>vented by man, but only misapplyed.</p>
+            <p>I Answer; First, though it be a ges<g ref="char:EOLhyphen"/>ture but misapplyed, yet so it is a sinne hanious enough, euen against the third Commandement, as before hath beene
+<pb n="16" facs="tcp:119620:10"/> shewed. Also it taketh away vtterly the necessary Ceremonie of sitting which is required by the second Com<g ref="char:EOLhyphen"/>mandement, as in the fourth Argument next before is proved. And so even this kneeling is against the second Com<g ref="char:EOLhyphen"/>mandement also. But moreover, knee<g ref="char:EOLhyphen"/>ling thus misapplyed doth grow to be a positive false doctrine, a new constant Ordinance of men in Gods worship, a devised manner of worshiping God relatively before and by occasion of the sanctified signes then and there ex<g ref="char:EOLhyphen"/>hibited to our bodily sences, and yet such a thing whereof there is no neces<g ref="char:EOLhyphen"/>sity in the nature thereof. And thus it selfe is now become euen directly a transgression of the second Comman<g ref="char:EOLhyphen"/>dement. as Rebaptising is likewise, and Hemerobaptising also, that is, Bapti<g ref="char:EOLhyphen"/>sing the same person euery day, &amp; Bap<g ref="char:EOLhyphen"/>tising the dead, and giving the holy Cō<g ref="char:EOLhyphen"/>munion to the dead, and the doctrine of the Euchitae who taught that wee
+<pb n="17" facs="tcp:119620:10"/> must alwayes pray in every thing con<g ref="char:EOLhyphen"/>tinually; likewise Pontificall Church government, Excommunications and making of Ministers; also these Popish Sacraments, Matremonie, Pennance, Orders, &amp;c. These all are but the mis<g ref="char:EOLhyphen"/>applying and misvsing of Ordinance: which are holy and right in themselues, but yet become false doctrines, volun<g ref="char:EOLhyphen"/>tary worship, new formes of religion, &amp; being thus humaine constitutions in Gods worship, they are, I say, (thus con<g ref="char:EOLhyphen"/>sidered) cleerely against the second com<g ref="char:EOLhyphen"/>mandement, as is aforesaid. And even so kneeling in the act of eating and drinking at the Lords table is to be accounted likewise.</p>
+            <p>If any say, to sing a Psalme before and after Sermon pertaineth not to the second Commandement. Yet it per<g ref="char:EOLhyphen"/>taineth to the second Commandement as well and altogeather as much as this kneeling doth.</p>
+            <p>I answer, that is not so. There is no
+<pb n="18" facs="tcp:119620:11"/> likenes in these. For this kneeling is a meere voluntary institution, there is no necessary reason requiring it at this time. But it is very profitable and re<g ref="char:EOLhyphen"/>quisit to sing a Psalme, even before and after Sermon, It is no meere volun<g ref="char:EOLhyphen"/>tarie institution: there is some necessa<g ref="char:EOLhyphen"/>ry vse of it in the light of reason, and true discretion; which againe somtime in discretion is changable also.</p>
+            <p>If any say, kneeling in the act of receaving at the Lords table is not a meere voluntary or free institution of man. For there seemeth to be a neces<g ref="char:EOLhyphen"/>sary and very profitable vse therein; even because we do thus with more reverence worship God in the vse of his Ordinance then otherwise.</p>
+            <p>I answer, this opinion is highly pre<g ref="char:EOLhyphen"/>sumptious, and also no lesse superstiti<g ref="char:EOLhyphen"/>tious, presumptious, seeing thus men now take vpon them to handle these sacred mysteries more reverently and with more holy affections then Christ
+<pb n="19" facs="tcp:119620:11"/> himselfe and his Apostles did: or at least these men would have it set me that they do Superstitious this opini<g ref="char:EOLhyphen"/>on is, seeing it is <hi>supra statutum,</hi> aboue and beyond all rule and example in Gods word; beyond the most holy, most religious, and most sufficient ex<g ref="char:EOLhyphen"/>ample of Christ and his Apostles.</p>
+            <p>Sixtly. <hi>If the Apostle for all com<g ref="char:EOLhyphen"/>mon and fit behaviour at the Lords ta<g ref="char:EOLhyphen"/>ble do send us to Christs institution to imitate it, and if at that time he togea<g ref="char:EOLhyphen"/>ther with his Diciples did sit, then the Apostle requireth of vs sitting and not kneeling in that action. And then kneeling therein is a sinne.</hi>
+            </p>
+            <p>
+               <hi>But the Apostle for all common and fit behaviour at the Lords table doth send vs to Christ. institution to imetate it,</hi> saying, 1. Cor. 11. For I have receav<g ref="char:EOLhyphen"/>ed of the Lord that which I deliver unto you. And, verse. the first. Be ye follow<g ref="char:EOLhyphen"/>ers of me, as I am of Christs. Also they then Luke 22.27. sat: and this sitting
+<pb n="20" facs="tcp:119620:12"/> is a like common and fit for vs now still, as it was then for them.</p>
+            <p>
+               <hi>Therefore the Apostle requireth of vs now to sit. And so to kneele now is sinne.</hi>
+            </p>
+            <p>If any say, then, as well are we bound to Celebrate the Communion at night and after Supper, as Christ did. I an<g ref="char:EOLhyphen"/>swer, not so. For this reason, viz. After Supper is not fit nor common for us &amp; them a like. They in the Institution had a peculiar and vrgent reason to doe it after Supper: we now have not that rea<g ref="char:EOLhyphen"/>son: but we have vrgent reasons more then one, to celebrate this holy Com<g ref="char:EOLhyphen"/>munion now in the freshest and cleerest of the day. And therefore in this the A<g ref="char:EOLhyphen"/>postle intendeth not that we should be bound to imitate Christs Institution, yet in sitting together when we receive it, he intendeth that we should imitate the Institution. Seeing that is common and fiting for vs still, as well as it was then for them.</p>
+            <pb n="21" facs="tcp:119620:12"/>
+            <p>If any say in 1, Cor: 11. The Apo<g ref="char:EOLhyphen"/>stle setteth downe perticularly all ne<g ref="char:EOLhyphen"/>cessary poynt, in administring and re<g ref="char:EOLhyphen"/>ceiving at the Lords Table, but he doth not set downe sitting: Therefore sitting in this action is not necessary.</p>
+            <p>I answer. The Apostle here doth not sett downe perticularly all necessary poynts in administring and receiving at the Lords Table-For he mentioneth not the giving of the bread, nor the Po<g ref="char:EOLhyphen"/>wering out of the wine, yet both these are necessary, but by rehersing the Jnsti<g ref="char:EOLhyphen"/>tution in this place, his meaning indeed is to referre vs thether, to imitate it in all things being common to us with them then, and whereof there is no spe<g ref="char:EOLhyphen"/>ciall reason for us now to the contra<g ref="char:EOLhyphen"/>ry: Thus, name<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y he requyreth the Co<g ref="char:EOLhyphen"/>rinthian Church, to looke backe to the order of the first Institution and to fol<g ref="char:EOLhyphen"/>low it, that certaine misbehaviours a<g ref="char:EOLhyphen"/>bout the receaving of this holy Sacra<g ref="char:EOLhyphen"/>ment which werr crept in and vsed at
+<pb n="22" facs="tcp:119620:13"/> that time, might be corrected by the simple observing of Christs Instituti<g ref="char:EOLhyphen"/>on, so as is aforesaid. And this directly will proue kneeling in the act of eating and drinking at the Lords table which is now in vse with vs, to be an errour and a transgression: and sitting to be the right and due behaviour of Christian people. Seeing that such was Christs and his Apostles manner and example vnto vs, neither is there for vs any speciall reason to the contrary, as hath been noted.</p>
+            <p>If any say, Kneeling is the fittest gesture in prayer, and in thanksgiving. But this Sacrament is properly a thanksgiving; and in the very receaving of it there is prayer vsed.</p>
+            <p>I answer, heere the Assumption is very faulty. In the act of receaving, that is, in the act of eating and drinking at the Lords table there is no prayer vsed, nor thanksgiving by Christs instituti<g ref="char:EOLhyphen"/>on, nor by the Apostles practise. There
+<pb n="23" facs="tcp:119620:13"/> gestures which they vsed at that instant do cleerely make this manifest, besides sundry other reasons. Wherefore it is most certaine that there ought not to be any solemne or expresse prayer now, nor Thanksgiving, among us at all. If the Ordinance of man do appoint either any solemne outward prayer, or thanksgiving in this very act, it is a manifest error and violating of the holy institution. For Christ plain<g ref="char:EOLhyphen"/>ly intended in this act another matter farr different from outward solemne prayer or giving of thanks. First, (as is touched before) this very act is properly an act of preaching and de<g ref="char:EOLhyphen"/>claring forth of Christs death and passion, as the Apostle expoundeth it saying, 1 Cor. 11.26. So oft as ye eate this bread and drinke this cup, ye shew forth (or ye preach) the Lords death vntill he come. Therfore this act is intended to be properly a preaching, not an act of prayer or giving of
+<pb n="24" facs="tcp:119620:14"/> thanks. Againe, this very act noteth and representeth our consociation in glory with Christ hereafter, as also before hath bin shewed. Which like<g ref="char:EOLhyphen"/>wise is no act of prayer or supplication, nor humiliation, nor yet of solemne expresse thanksgiving properly. This objection therefore is very ill ground<g ref="char:EOLhyphen"/>ed; it is a marvelous high presump<g ref="char:EOLhyphen"/>tion in those that will vrge it. True indeed, this Sacrament is called by divers the Sacrament of thanksgiving, and not vnjustly. But it is because it requireth in the general administration thereof great Thanksgiving for those incomparable benefits which therein God representeth and in a sort exhibi<g ref="char:EOLhyphen"/>teth vnto vs. And so we acknowledge there ought to be exceeding earnest and ample Thanksgiving, and prayer, and kneeling also therewithall, both before and after the act of receiving. Yet the act it selfe of receiving is no Thanksgiving, nor prayer, nor any
+<pb n="25" facs="tcp:119620:14"/> such thing is in it, nor ought to be, but it hath a present vse of a much different nature in outward gesture, as before is sufficiently declared.</p>
+            <p>Seaventhly. <hi>Stand fast in the liberty wherewith Christ hath made you free, and be not intangled againe with the yoake of bondage.</hi> Gal. 5.1. Heere we are commanded, in the worship of God to abstaine from all things being not Gods Ordinances (at least) whereof men make a necessitie. So that to yeeld heerein is sinne.</p>
+            <p>
+               <hi>This kneeling is in Gods worship not Gods Ordinance, and men make a necessitie of it.</hi>
+            </p>
+            <p>
+               <hi>Therefore heere</hi> Gal. 5.1. <hi>we are commanded to abstaine from this kneel<g ref="char:EOLhyphen"/>ing and then to yeld to it is a sinne.</hi>
+            </p>
+            <p>If any say, the first proposition is not sure, because the Apostle heere spaketh of our being freed only frō the Iewish Ceremonies and the opinion of necessitie in them.</p>
+            <pb n="26" facs="tcp:119620:15"/>
+            <p>I answer, that is one part of the libertie of Christians which we have in Christ: and of this indeed the Apostle doth heere speake perticular<g ref="char:EOLhyphen"/>ly. But the liberty of Christians which we have in Christ (named indefinitly heere) goeth further; it exempteth vs generally from the inventions and voluntary Ordinances of men in Di<g ref="char:EOLhyphen"/>vine service: it giveth us power and libertie to worship God only by his owne Ordinances. Wherefore in this our liberty we are commanded to stand fast also heere in this place. For the Apostles words are to be extended to there generall and large sense; they have truth even so largly, though heere he apply them but to one particular, the leaving of the Iewes Ceremonies. Which now also indeed were not Gods Ordinances for his worship, specially in the Christian assemblies, whereof heere the Apostle speaketh: but thus they
+<pb n="27" facs="tcp:119620:15"/> where meere Humane Ordinances now, and a yoke of bondage: most of all as they were heere vrged, viz. as necessary. Thus therefore the Apo<g ref="char:EOLhyphen"/>stle in this text doth certainly com<g ref="char:EOLhyphen"/>mand us to abstaine from all things generally being not Gods Ordinance in his worship. For of such he speak<g ref="char:EOLhyphen"/>eth heere, and in this very respect, specially these humane things being pressed as necessary, as is said.</p>
+            <p>If any thinke the Second proposi<g ref="char:EOLhyphen"/>tion, or minor to be faulty; the first part of it, that this kneeling is not Gods Ordinance, is in the minor of Argument 5 before cleerly made manifest. Neither can any man with any colour of sense or reason say otherwise. The second part of this proposition, that men make a neces<g ref="char:EOLhyphen"/>sitie of this kneeling, is also most true. For they make it a sinne not to kneele now, namely in disobeying mens authoritie commanding it.
+<pb n="28" facs="tcp:119620:16"/> Wherefore though they make not this kneeling necessary of it selfe, or in its owne nature, yet by conse<g ref="char:EOLhyphen"/>quent they make it to be so, and that it is sinne to omit it. For indeed it is sinne to disobey men in lawfull authority, if they command no e<g ref="char:EOLhyphen"/>vill. Therefore the Conclusion fol<g ref="char:EOLhyphen"/>loweth vndeniably, to yeeld to this kneeling is a sinne, as before we have gathered it and set downe.</p>
+            <p n="8">8. Finally, <hi>Whatsoever in Gods worship hath no Example nor war<g ref="char:EOLhyphen"/>rant for it before a thousaund two hun<g ref="char:EOLhyphen"/>dred yeares after Christ, cannot but be Antichristian and simply evill.</hi>
+            </p>
+            <p>
+               <hi>This kneeling in Gods worship hath no Example nor warrant for it before a thousaund two hundred years after Christ. If it have any, let it be shewed. But indeed there is none.</hi>
+            </p>
+            <p>
+               <hi>Therefore this kneeling cannot but he simply evill, and a manifest sinne.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
